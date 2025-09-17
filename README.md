@@ -4,7 +4,7 @@
 
 GotongChain – Micro-Crowdfunding & DAO on Sui
 
-🏆 Elevator Pitch (1–2 kalimat)
+🏆 Elevator Pitch 
 
 GotongChain adalah platform micro-crowdfunding berbasis blockchain Sui yang memungkinkan siapa pun berdonasi mulai dari nominal kecil. Dana disimpan dalam smart contract dan hanya bisa dicairkan ketika komunitas DAO menyetujui setiap milestone, memastikan transparansi dan kepercayaan.
 
